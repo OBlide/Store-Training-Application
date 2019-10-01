@@ -1,0 +1,64 @@
+{
+    "items": [
+        {
+            "name": "Roku Express | Easy High Definition (HD) Streaming Media Player",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41spHispiRL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$26.00",
+            "offers": 31,
+            "rating": 4
+        },
+        {
+            "name": "HP 63 | 2 Ink Cartridges | Black, Tri-color | F6U61AN, F6U62AN",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41VKhjEDICL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$45.89",
+            "rating": 4
+        },
+        {
+            "name": "Samsung 128GB 100MB/s (U3) MicroSDXC Evo Select Memory Card with Adapter (MB-ME128GA/AM)",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/416IxcmUpGL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$18.99",
+            "offers": 14,
+            "rating": 4
+        },
+        {
+            "name": "HP OfficeJet 3830 All-in-One Wireless Printer, HP Instant Ink & Amazon Dash Replenishment ready (K7V40A)",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/31uj+hDnBFL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$99.89",
+            "offers": 22,
+            "rating": 4
+        },
+        {
+            "name": "Acer Aspire 5 Slim Laptop, 15.6 Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Backlit Keyboard, Windows 10 in S Mode, A515-43-R19L",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41vMYgD92xL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$309.99",
+            "rating": 4
+        },
+        {
+            "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Voice Remote with TV Power and Volume",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/41eaXOUQCEL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$49.95",
+            "offers": 29,
+            "rating": 4
+        },
+        {
+            "name": "Western Digital 2TB Elements Portable External Hard Drive - USB 3.0 - WDBU6Y0020BBK-WESN",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/31YZ2ZYT66L._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$59.99",
+            "offers": 61,
+            "rating": 4
+        },
+        {
+            "name": "Acer Predator Helios 300 Gaming Laptop PC, 15.6 Full HD 144Hz 3ms IPS Display, Intel i7-9750H, GTX 1660 Ti 6GB, 16GB DDR4, 256GB PCIe NVMe SSD, Backlit Keyboard, PH315-52-78VL",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51Zp8El3RcL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$1,099",
+            "rating": 4
+        },
+        {
+            "name": "TP-Link AC1750 Smart WiFi Router - Dual Band Gigabit Wireless Internet Router for Home, Works with Alexa, VPN Server, Parental Control&QoS(Archer A7)",
+            "img": "https://images-na.ssl-images-amazon.com/images/I/415vAIn9uEL._AC_US240_FMwebp_QL65_.jpg",
+            "price": "$57.99",
+            "offers": 10,
+            "rating": 4
+        }
+    ]
+}
